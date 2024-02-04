@@ -2,7 +2,6 @@
 -e .
 
 # external requirements
-# external requirements
 click
 alabaster==0.7.12
 alembic==1.4.1
